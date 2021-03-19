@@ -11,3 +11,4 @@
 ![task2](https://user-images.githubusercontent.com/78713326/111755665-72249d80-88c1-11eb-8afa-d628db02cba0.png)
 
 
+![task2gif](https://user-images.githubusercontent.com/78713326/111755743-8b2d4e80-88c1-11eb-9a03-41dd1de7cc3c.gif)
