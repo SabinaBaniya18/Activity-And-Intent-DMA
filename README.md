@@ -8,3 +8,6 @@
 
 ![task1gif](https://user-images.githubusercontent.com/78713326/111755567-5ae5b000-88c1-11eb-8363-edbda7dccf5e.gif)
 
+![task2](https://user-images.githubusercontent.com/78713326/111755665-72249d80-88c1-11eb-8afa-d628db02cba0.png)
+
+
