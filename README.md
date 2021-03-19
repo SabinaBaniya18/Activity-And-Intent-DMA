@@ -14,3 +14,5 @@
 ![task2gif](https://user-images.githubusercontent.com/78713326/111755743-8b2d4e80-88c1-11eb-9a03-41dd1de7cc3c.gif)
 
 ![task3](https://user-images.githubusercontent.com/78713326/111755830-a39d6900-88c1-11eb-86b8-df9aa7b32fae.png)
+
+![task3gif](https://user-images.githubusercontent.com/78713326/111755921-bf087400-88c1-11eb-9dc4-27601d5500e2.gif)
